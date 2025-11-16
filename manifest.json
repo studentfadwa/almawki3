@@ -1,0 +1,21 @@
+{
+  "name": "قصص الأنبياء للناشئة",
+  "short_name": "قصص الأنبياء",
+  "description": "تطبيق ويب تفاعلي يقدم قصص الأنبياء للناشئة بأسلوب شيق ومبسط، مستوحى من موقع روافد الإيمان.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FEF3C7",
+  "theme_color": "#FDE68A",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
