@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.studentfadwa.twa",
+      "sha256_cert_fingerprints": [
+        "F7:F2:F6:29:EF:9F:47:99:1D:84:EC:6E:1D:01:89:0E:CA:43:D0:DD:C1:93:16:34:AB:EA:FA:C9:87:3E:0E:1A"
+      ]
+    }
+  }
+]
