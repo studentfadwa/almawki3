@@ -9,6 +9,7 @@
 - دعم خطوط عربية (`Tajawal`) وتهيئة بسيطة عبر Tailwind CDN.
 - إمكانية دمج الذكاء الاصطناعي عبر خدمة Gemini باستخدام المكتبة `@google/genai`.
 
-
-- ## موقع التطبيق الافضل لعرض قصص الانبياء
+## لتنزيل : قصص الانبياء - نسخة للاندوريد                                                                                  https://drive.google.com/file/d/1iWNTdNINIfxDQmkUAfodPXelYM27bKAj
+                                                                                                                                                           
+## موقع التطبيق الافضل لعرض قصص الانبياء
 - https://rawafeedaleman.com/prophets-stories-for-kids روافد الايمان 
