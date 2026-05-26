@@ -12,4 +12,4 @@
 ## لتنزيل : قصص الانبياء - نسخة للاندوريد                                                                                  https://drive.google.com/file/d/1iWNTdNINIfxDQmkUAfodPXelYM27bKAj
                                                                                                                                                            
 ## موقع التطبيق الافضل لعرض قصص الانبياء
-- https://rawafeedaleman.com/prophets-stories-for-kids روافد الايمان 
+- https://rawafeedaleman.com روافد الايمان 
